@@ -1,4 +1,4 @@
-# Material Scientist
+# Researcher
 
 ### Education
 Material Science, PHD(Ongoing)
