@@ -13,4 +13,4 @@ Research Assistant @ Pennsylvania State University
 - Project 2
 
 
-http://NirjharAlam.github.io/repository
+http://nirjharalam.github.io/repository
