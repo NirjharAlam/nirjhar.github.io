@@ -26,6 +26,7 @@ formation tasks, such as reconstruction and image-to-image translation." width="
 In this problem, the synthetic scans are fed as input to the VAE's encoder. The decoder outputs the underlying geometry. Thus, the VAE essentially learns to perform full inversion on the GPR B-scan data. Mean square error is used as loss function, although a more educated loss function, such as SSIM can be explored in the future for a performance boost. 
 
 
+
 <div align="center">
     <img src="../DNN-inversion/img/DNN_inversion_AE.PNG" alt= Top)An Autoencoder model is trained, using simulated B-scans as input and the permittivity map of the predicted structure as output. Mean squared error is used to compute the difference between the predicted structure and the actual structure as the loss function. " width="600">
     <p><strong>Figure 3:</strong> Top)An Autoencoder model is trained, using simulated B-scans as input and the permittivity map of the predicted structure as output. Mean squared error is used to compute the difference between the predicted structure and the actual structure as the loss function. </p>
