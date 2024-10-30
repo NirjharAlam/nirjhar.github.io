@@ -2,7 +2,7 @@
 A generative model is used to learn a joint distribution of GPR B-scans and corresponding structural geometry for inversion. The dataset describes buried objects with reflective properties at different positions in a soil-like medium.
 
 <div align="center">
-    <img src="../DNN-inversion/img/VAE_architecture.PNG" alt= Results of AE inversion of GPR B-scans from buried cylinders. The material
+    <img src="../DNN-inversion/img/VAE_Architecture.PNG" alt= Results of AE inversion of GPR B-scans from buried cylinders. The material
 interfaces are blurry for the cylinders. However, the location and size of the object are detected with
 accuracy except for sample (d)." width="600">
     <p><strong>Figure 1:</strong> Results of AE inversion of GPR B-scans from buried cylinders. The material interfaces are blurry for the cylinders. However, the location and size of the object are detected with accuracy except for sample (d).</p>
