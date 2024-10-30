@@ -6,8 +6,8 @@ I am a 5th year PhD student at Pennsylvania State University's Material Science 
 
 
 ## Publications
-- **Publication Title**  
-  Brief description of the work. [Read more](publication-link).
+- **Data-driven evaluation of building materials using Ground Penetrating Radare**  
+  A data driven approach for predicting material type and layer thickness from GPR radargrams is proposed. The methodology also successfully detects sub-wavelength thicknesses. [Read more](https://www.sciencedirect.com/science/article/pii/S235271022401756X).
 
 ## Conferences
 - **Conference Title**  
