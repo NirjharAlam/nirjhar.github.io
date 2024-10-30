@@ -10,6 +10,7 @@ I am a 5th year PhD student at Pennsylvania State University's Material Science 
   A data driven approach for predicting material type and layer thickness from GPR radargrams is proposed. The methodology also successfully detects sub-wavelength thicknesses. [Read more](https://www.sciencedirect.com/science/article/pii/S235271022401756X).
 
 ![Simulation revealed subwavelength layers produced discernible signal patterns. ](./gifs/rf.gif)
+Simulation revealed subwavelength layers produced discernible signal patterns.
 
 ## Conferences
 - **ASCE Engineering Mechanics Institute 2022 Conference**  
