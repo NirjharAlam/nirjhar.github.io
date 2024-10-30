@@ -3,7 +3,7 @@ A generative model is used to learn a joint distribution of GPR B-scans and corr
 
 
 <div align="center">
-    <img src="./DNN-inversion/img/DNN_inversion_result (1).PNG" alt= Results of AE inversion of GPR B-scans from buried cylinders. The material
+    <img src="./DNN-inversion/img/DNN_inversion_result.PNG" alt= Results of AE inversion of GPR B-scans from buried cylinders. The material
 interfaces are blurry for the cylinders. However, the location and size of the object are detected with
 accuracy except for sample (d)." width="300">
     <p><strong>Figure 1:</strong> Results of AE inversion of GPR B-scans from buried cylinders. The material interfaces are blurry for the cylinders. However, the location and size of the object are detected with accuracy except for sample (d).</p>
