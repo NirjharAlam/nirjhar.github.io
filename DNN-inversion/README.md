@@ -1,4 +1,4 @@
-## Inversion of GPR B-scans Using Deep Neural Networks** 
+## Inversion of GPR B-scans Using Deep Neural Networks
 
 <div align="center">
     <img src="./DNN-inversion/img/DNN_inversion_result (1).PNG" alt= Results of AE inversion of GPR B-scans from buried cylinders. The material
