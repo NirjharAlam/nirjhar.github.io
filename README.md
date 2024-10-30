@@ -10,11 +10,13 @@ I am a 5th year PhD student at Pennsylvania State University's Material Science 
   A data driven approach for predicting material type and layer thickness from GPR radargrams is proposed. The methodology also successfully detects sub-wavelength thicknesses. [Read more](https://www.sciencedirect.com/science/article/pii/S235271022401756X).
 
 ## Conferences
+- **ASCE Engineering Mechanics Institute 2022 Conference**  
+  Brief description of the presentation. [Abstract (see page 8)]([abstract-link](https://www.emi-conference.org/sites/emi-conference.org/2022/files/inline-files/EMI%202022%20Book%20of%20Abstracts.pdf)).
+
 - **Engineering Mechanics Institute (EMI) - 2022**  
   Brief description of the presentation. [Abstract (see page 8)]([abstract-link](https://www.emi-conference.org/sites/emi-conference.org/2022/files/inline-files/EMI%202022%20Book%20of%20Abstracts.pdf)).
 
 
-  
 
 ## Works in Progress
 - **Project Name**  
