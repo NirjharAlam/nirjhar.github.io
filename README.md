@@ -39,5 +39,5 @@ I am a 5th year PhD student at Pennsylvania State University's Material Science 
 - **GPR Scan Inversion Using Deep Neural Network**  
   A generative model is used to fully inverst GPR B-scans for a buried object problem. A relatively light VAE model accurately indicates the object position and size, although results inconclusive for when the buried object is small.  [See project details](./DNN-inversion/README.md).
 
-- **Building Envelope Defect Detection from GPR radargrams**  
-  Short description. [See project details](./defect_detection/README.md).
+- **Orientation Detection for Angular Defectss in Building Envelopes**  
+  Short description. [See project details](https://nirjharalam.github.io/triangular_defect/).
