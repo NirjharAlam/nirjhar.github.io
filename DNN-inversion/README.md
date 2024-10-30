@@ -1,4 +1,6 @@
 ## Inversion of GPR B-scans Using Deep Neural Networks
+A generative model is used to learn a joint distribution of GPR B-scans and corresponding structural geometry for inversion. The dataset describes buried objects, with reflective properties, buried at different positions in a soil like medium.
+
 
 <div align="center">
     <img src="./DNN-inversion/img/DNN_inversion_result (1).PNG" alt= Results of AE inversion of GPR B-scans from buried cylinders. The material
