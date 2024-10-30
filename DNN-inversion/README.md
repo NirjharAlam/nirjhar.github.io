@@ -8,7 +8,9 @@ GPR scans obtained by numerical simulation." width="600">
     <p><strong>Figure 1:</strong> (Top) Cylinders of various diameters buried in concrete at different locations, (Bottom) Corresponding GPR scans obtained by numerical simulation.</p>
 </div>
 
+
 An Autoencoder (AE) is a generative model that uses converging neural networks (NNs) to encode high dimensional input data to a lower dimensional space. A decoder, consisting of diverging NNs subsequently samples from the embedded space and learns to re-create a high dimensional output. A Variational Autoencoder (VAE) is a modified AE where the encoded representations are normal distributions instead of distinct points. This enables VAEs to output predictions that are more consistent and continuously varied. 
+
 
 <div align="center">
     <img src="../DNN-inversion/img/VAE_Architecture.PNG" alt= VAEs consist of a converging NN (encoder) connected to a diverging NN (decoder) via a
@@ -17,6 +19,8 @@ formation tasks, such as reconstruction and image-to-image translation." width="
     <p><strong>Figure 1:</strong> Results of AE inversion of GPR B-scans from buried cylinders. The material interfaces are blurry for the cylinders. However, the location and size of the object are detected with accuracy except for sample (d).</p>
 </div>
 
+
+In this problem, the synthetic scans are fed as input to the VAE's encoder. The decoder outputs the underlying geometry. Thus, the VAE essentially learns to perform full inversion on the GPR B-scan data. Mean square error is used as loss function, although a more educated loss function, such as SSIM can be explored in the future for performance boost. 
 
 
 <div align="center">
