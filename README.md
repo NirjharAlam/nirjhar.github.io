@@ -11,7 +11,7 @@ I am a 5th year PhD student at Pennsylvania State University's Material Science 
 
 ![Simulation revealed subwavelength layers produced discernible signal patterns. ](./gifs/rf.gif)
 <div align="center">
-**Simulation revealed subwavelength layers produced discernible signal patterns.**
+ <strong>Simulation revealed subwavelength layers produced discernible signal patterns. <strong>
 </div>
 
 ## Conferences
