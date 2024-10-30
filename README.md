@@ -17,11 +17,12 @@ I am a 5th year PhD student at Pennsylvania State University's Material Science 
   Brief description of the presentation. [Abstract (see page 30)](https://www.asce.org/-/media/798f777f1bb446ceb8a290267b11cb79.ashx).
 
 - **ASCE Engineering Mechanics Institute 2024 Conference**  
-  Brief description of the presentation. [Abstract (see page 8)][abstract-link](https://www.asce.org/-/media/798f777f1bb446ceb8a290267b11cb79.ashx)
-
-https://www.asce.org/-/media/798f777f1bb446ceb8a290267b11cb79.ashx
+  Brief description of the presentation. [Abstract (see page 8)](https://www.asce.org/-/media/798f777f1bb446ceb8a290267b11cb79.ashx)
 
 
 ## Works in Progress
-- **Project Name**  
+- **GPR Scan Inversion Using Deep Neural Network**  
+  Short description. [See project details](link-to-project-page).
+
+- **Building Envelope Defect Detection from GPR radargrams**  
   Short description. [See project details](link-to-project-page).
