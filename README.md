@@ -14,7 +14,7 @@ I am a 5th year PhD student at Pennsylvania State University's Material Science 
   Brief description of the presentation. [Abstract (see page 8)](https://www.emi-conference.org/sites/emi-conference.org/2022/files/inline-files/EMI%202022%20Book%20of%20Abstracts.pdf).
 
 - **ASCE Engineering Mechanics Institute 2023 Conference**  
-  Brief description of the presentation. [Abstract (see page 30)]([abstract-link](https://www.asce.org/-/media/798f777f1bb446ceb8a290267b11cb79.ashx).
+  Brief description of the presentation. [Abstract (see page 30)](https://www.asce.org/-/media/798f777f1bb446ceb8a290267b11cb79.ashx).
 
 - **ASCE Engineering Mechanics Institute 2024 Conference**  
   Brief description of the presentation. [Abstract (see page 8)][abstract-link](https://www.asce.org/-/media/798f777f1bb446ceb8a290267b11cb79.ashx)
