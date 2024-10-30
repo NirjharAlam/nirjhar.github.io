@@ -2,18 +2,19 @@
 A generative model is used to learn a joint distribution of GPR B-scans and corresponding structural geometry for inversion. The dataset describes buried objects with reflective properties at different positions in a soil-like medium.
 
 <div align="center">
-    <img src="../DNN-inversion/img/VAE_Architecture.PNG" alt= Results of AE inversion of GPR B-scans from buried cylinders. The material
-interfaces are blurry for the cylinders. However, the location and size of the object are detected with
-accuracy except for sample (d)." width="600">
-    <p><strong>Figure 1:</strong> Results of AE inversion of GPR B-scans from buried cylinders. The material interfaces are blurry for the cylinders. However, the location and size of the object are detected with accuracy except for sample (d).</p>
-</div>
-
-
-<div align="center">
     <img src="../DNN-inversion/img/DNN_inversion_dataset.PNG" alt= (Top) Cylinders of various diameters buried
 in concrete at different locations, (Bottom) Corresponding
 GPR scans obtained by numerical simulation." width="600">
     <p><strong>Figure 1:</strong> (Top) Cylinders of various diameters buried in concrete at different locations, (Bottom) Corresponding GPR scans obtained by numerical simulation.</p>
+</div>
+
+An Autoencoder (AE) is a generative model that uses converging neural networks (NNs) to encode high dimensional input data to a lower dimensional space. A decoder, consisting of diverging NNs subsequently samples from the embedded space and learns to re-create a high dimensional output. A Variational Autoencoder (VAE) is a modified AE where the encoded representations are normal distributions instead of distinct points. This enables VAEs to output predictions that are more consistent and continuously varied. 
+
+<div align="center">
+    <img src="../DNN-inversion/img/VAE_Architecture.PNG" alt= VAEs consist of a converging NN (encoder) connected to a diverging NN (decoder) via a
+lower-dimensional latent space. They have been applied successfully for various image data trans-
+formation tasks, such as reconstruction and image-to-image translation." width="600">
+    <p><strong>Figure 1:</strong> Results of AE inversion of GPR B-scans from buried cylinders. The material interfaces are blurry for the cylinders. However, the location and size of the object are detected with accuracy except for sample (d).</p>
 </div>
 
 
