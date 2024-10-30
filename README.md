@@ -14,6 +14,14 @@ I am a 5th year PhD student at Pennsylvania State University's Material Science 
     <p><strong>Figure 1:</strong> Simulation revealed subwavelength layers produced discernible signal patterns for both interfaces.</p>
 </div>
 
+<div align="center">
+    <img src="./gifs/workflow_diagram.png" alt=Both material type and subwavelength sample thickness values were correctly predicted by the proposed model." width="300">
+    <p><strong>Figure 1:</strong> Both material type and subwavelength sample thickness values were correctly predicted by the proposed model.</p>
+</div>
+
+
+
+
 
 ## Conferences
 - **ASCE Engineering Mechanics Institute 2022 Conference**  
