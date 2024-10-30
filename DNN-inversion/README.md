@@ -18,7 +18,7 @@ An Autoencoder (AE) is a generative model that uses converging neural networks (
     <img src="../DNN-inversion/img/VAE_Architecture.PNG" alt= VAEs consist of a converging NN (encoder) connected to a diverging NN (decoder) via a
 lower-dimensional latent space. They have been applied successfully for various image data trans-
 formation tasks, such as reconstruction and image-to-image translation." width="600">
-    <p><strong>Figure 1:</strong> Results of AE inversion of GPR B-scans from buried cylinders. The material interfaces are blurry for the cylinders. However, the location and size of the object are detected with accuracy except for sample (d).</p>
+    <p><strong>Figure 2:</strong> Results of AE inversion of GPR B-scans from buried cylinders. The material interfaces are blurry for the cylinders. However, the location and size of the object are detected with accuracy except for sample (d).</p>
 </div>
 
 
@@ -28,7 +28,7 @@ In this problem, the synthetic scans are fed as input to the VAE's encoder. The 
 
 <div align="center">
     <img src="../DNN-inversion/img/DNN_inversion_AE.PNG" alt= Top)An Autoencoder model is trained, using simulated B-scans as input and the permittivity map of the predicted structure as output. Mean squared error is used to compute the difference between the predicted structure and the actual structure as the loss function. " width="600">
-    <p><strong>Figure 1:</strong> Top)An Autoencoder model is trained, using simulated B-scans as input and the permittivity map of the predicted structure as output. Mean squared error is used to compute the difference between the predicted structure and the actual structure as the loss function. </p>
+    <p><strong>Figure 3:</strong> Top)An Autoencoder model is trained, using simulated B-scans as input and the permittivity map of the predicted structure as output. Mean squared error is used to compute the difference between the predicted structure and the actual structure as the loss function. </p>
 </div>
 
 
@@ -41,6 +41,6 @@ As seen in Figure 4, the simple VAE architecture can identify the location of th
     <img src="../DNN-inversion/img/DNN_inversion_result.PNG" alt= Results of AE inversion of GPR B-scans from buried cylinders. The material
 interfaces are blurry for the cylinders. However, the location and size of the object are detected with
 accuracy except for sample (d)." width="600">
-    <p><strong>Figure 1:</strong> Results of AE inversion of GPR B-scans from buried cylinders. The material interfaces are blurry for the cylinders. However, the location and size of the object are detected with accuracy except for sample (d).</p>
+    <p><strong>Figure 4:</strong> Results of AE inversion of GPR B-scans from buried cylinders. The material interfaces are blurry for the cylinders. However, the location and size of the object are detected with accuracy except for sample (d).</p>
 </div>
 
