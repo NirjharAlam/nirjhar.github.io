@@ -36,7 +36,7 @@ I am a 5th year PhD student at Pennsylvania State University's Material Science 
 
 ## Works in Progress
 - **GPR Scan Inversion Using Deep Neural Network**  
-  Short description. [See project details](link-to-project-page).
+  Short description. [See project details](./DNN-inversion/README.md).
 
 - **Building Envelope Defect Detection from GPR radargrams**  
   Short description. [See project details](link-to-project-page).
