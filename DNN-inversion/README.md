@@ -11,11 +11,18 @@ I am a 5th year PhD student at Pennsylvania State University's Material Science 
   A data driven approach for predicting material type and layer thickness from GPR radargrams is proposed. The methodology also successfully detects sub-wavelength thicknesses. [Read more](https://www.sciencedirect.com/science/article/pii/S235271022401756X).
 
 <div align="center">
-    <img src="./DNN-inversion/img/DNN_inversion_result (1).PNG", alt=STop) Results of AE inversion of GPR B-scans from buried cylinders. The material
+    <img src="./DNN-inversion/img/DNN_inversion_result (1).PNG" alt= Results of AE inversion of GPR B-scans from buried cylinders. The material
 interfaces are blurry for the cylinders. However, the location and size of the object are detected with
 accuracy except for sample (d)." width="300">
-    <p><strong>Figure 1:</strong> Simulation indicated subwavelength layers produced discernible secondary reflections for both interfaces.</p>
+    <p><strong>Figure 1:</strong> Results of AE inversion of GPR B-scans from buried cylinders. The material interfaces are blurry for the cylinders. However, the location and size of the object are detected with accuracy except for sample (d).</p>
 </div>
+
+
+<div align="center">
+    <img src="./assets/img/workflow_diagram.png" alt=Both material type and subwavelength sample thickness values were correctly predicted by the proposed model." width="800">
+    <p><strong>Figure 2:</strong> Both material type and subwavelength sample thickness values were correctly predicted by the proposed model.</p>
+</div>
+
 
 <div align="center">
     <img src="./assets/img/workflow_diagram.png" alt=Both material type and subwavelength sample thickness values were correctly predicted by the proposed model." width="800">
