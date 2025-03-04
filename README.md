@@ -1,7 +1,7 @@
 # Ahmed Nirjhar Alam's Portfolio
 
 <div align="left">
-    <img src="./assets/img/rough_snip.png" alt=Both material type and subwavelength sample thickness values were correctly predicted by the proposed model." width="80">
+    <img src="./assets/img/rough_snip.png" alt=Both material type and subwavelength sample thickness values were correctly predicted by the proposed model." width="200">
 </div>
 
 ## Bio
