@@ -6,7 +6,7 @@
 </div>
 
 ## Bio
-<> ![Ahmed Nirjhar Alam](./assets/img/rougn_snip.png)
+[//]: # ![Ahmed Nirjhar Alam](./assets/img/rougn_snip.png)
 
 I am a 5th year PhD student at Pennsylvania State University's Material Science Department. I employ data and physics-driven techniques to decipher critical information from radar scattering data. This portfolio contains glimpses of my published work, as well as projects that are either in progress or were not substantial enough for separate publication, yet interesting. 
 
