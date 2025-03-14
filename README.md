@@ -18,7 +18,7 @@ I am a 5th year PhD student at Pennsylvania State University's Material Science 
 
 <div align="center">
     <img src="./gifs/bottom_layer_reflection.gif" alt=Simulation revealed subwavelength layers produced discernible signal patterns for both interfaces" width="300">
-    <p><strong>Figure 1:</strong> Simulation indicated subwavelength layers produced discernible secondary reflections for both interfaces.</p>
+    <p><strong>Figure 1:</strong> Suppsedly indiscernible reflections from interfaces with subwavelength separation are accurately predicted using data-driven methods.</p>
 </div>
 
 
