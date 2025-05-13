@@ -28,6 +28,23 @@ I am a 5th year PhD student at Pennsylvania State University's Material Science 
     <p><strong>Figure 2:</strong> Both material type and subwavelength sample thickness values were correctly predicted by the proposed model.</p>
 </div>
 
+- **Interpretable AI for Building Envelope Inversion (*submitted*)**  
+  Building envelopes represent a challenge for GPR, due to their lower permittivity contrasts and comparatively cluttered interiors. This work proposes a data-driven framework, utilizing sparse neural networks, for diagnosing building envelopes using GPR signals. The proposed framework is accurate, highly interpretable, and robust to spurious patterns in signal.
+       [Read more](https://www.sciencedirect.com/science/article/pii/S235271022401756X).
+
+
+
+<div align="center">
+    <img src="./gifs/bottom_layer_reflection.gif" alt=Simulation revealed subwavelength layers produced discernible signal patterns for both interfaces" width="300">
+    <p><strong>Figure 1:</strong> Suppsedly indiscernible reflections from interfaces with subwavelength separation are accurately predicted using data-driven methods.</p>
+</div>
+
+
+
+<div align="center">
+    <img src="./assets/img/workflow_diagram.png" alt=Both material type and subwavelength sample thickness values were correctly predicted by the proposed model." width="800">
+    <p><strong>Figure 2:</strong> Both material type and subwavelength sample thickness values were correctly predicted by the proposed model.</p>
+</div>
 
 
 
