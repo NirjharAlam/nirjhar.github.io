@@ -17,8 +17,8 @@ I am a 5th year PhD student at Pennsylvania State University's Material Science 
 
 
 <div align="center">
-    <img src="./gifs/bottom_layer_reflection.gif" alt=Simulation revealed subwavelength layers produced discernible signal patterns for both interfaces" width="300">
-    <p><strong>Figure 1:</strong> Suppsedly indiscernible reflections from interfaces with subwavelength separation are accurately predicted using data-driven methods.</p>
+    <img src="./gifs/bottom_layer_reflection.gif" Simulation revealed subwavelength layers produced discernible signal patterns for both interfaces" width="300">
+    <p><strong>Figure 1:</strong> Supposedly indiscernible reflections from interfaces with subwavelength separation are accurately predicted using data-driven methods.</p>
 </div>
 
 
@@ -38,15 +38,10 @@ I am a 5th year PhD student at Pennsylvania State University's Material Science 
 
 <div align="center">
     <img src="./paper-2-overview.PNG" alt=Simulation revealed subwavelength layers produced discernible signal patterns for both interfaces" width="12000">
-    <p><strong>Figure 1:</strong> Suppsedly indiscernible reflections from interfaces with subwavelength separation are accurately predicted using data-driven methods.</p>
+    <p><strong>Figure 3:</strong> (left) Complex reflections within building envelope interior, (center) Sparse neural network interprets signals while trimming low quality features, (right) Selected features  map to salient locations
+        in the building envelope.</p>
 </div>
 
-
-
-<div align="center">
-    <img src="./assets/img/workflow_diagram.png" alt=Both material type and subwavelength sample thickness values were correctly predicted by the proposed model." width="800">
-    <p><strong>Figure 2:</strong> Both material type and subwavelength sample thickness values were correctly predicted by the proposed model.</p>
-</div>
 
 
 
