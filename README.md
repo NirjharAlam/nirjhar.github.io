@@ -7,7 +7,7 @@
 ## Bio
 
 
-I am a 5th year PhD student at Pennsylvania State University's Material Science Department. I employ data and physics-driven techniques to decipher critical information from radar scattering data. This portfolio contains glimpses of my published work and  projects that are either in progress or were not substantial enough for separate publication, yet interesting. 
+I am a 5th-year PhD student at Pennsylvania State University's Materials Science Department. I employ data and physics-driven techniques to decipher critical information from radar scattering data. This portfolio contains glimpses of my published work and  projects that are either in progress or were not substantial enough for separate publication, yet interesting. 
 
 
 ## Publications
@@ -62,16 +62,16 @@ I am a 5th year PhD student at Pennsylvania State University's Material Science 
   A generative model inverts GPR B-scans for a buried object problem. A relatively light VAE model accurately indicates the objects' position and size, although results are inconclusive when the buried object is small. [See project details](./DNN-inversion/README.md).
   
   <div align="center">
-    <img src="./DNN-inversion/img/DNN_inversion_AE.PNG" alt=Simulation revealed subwavelength layers produced discernible signal patterns for both interfaces" width="800">
+    <img src="./DNN-inversion/img/DNN_inversion_AE.PNG" alt=Simulation revealed subwavelength layers produced discernible signal patterns for both interfaces" width="500">
     <p><strong>Figure 4:</strong> A Variational Autoencoder (VAE) models the joint distribution between input geometries - represented as permittivity maps of subsurface structures - and their corresponding B-scans. This enables computationally efficient full-waveform inversion of GPR data for target configurations. </p>
 </div>
 
 
 - **Orientation Detection for Angular Defects in Building Envelopes**
-This study investigates the potential of convolutional neural networks (CNNs) for detecting such defects. To this end, a controlled experiment is designed in which an isosceles triangular defect is rotated within a building envelope. For each orientation, the corresponding GPR B-scan of the wall section is simulated using an FDTD solver (GPRMax). A convolutional regression model is then employed to predict the angle of orientation of the defect from the resulting radargrams. [See project details](https://nirjharalam.github.io/triangular_defect/).
+This study investigates the potential of convolutional neural networks (CNNs) for detecting building envelope defects. A controlled experiment is designed in which an isosceles triangular defect is rotated within a building envelope. At each point, the corresponding GPR B-scan of the wall section is simulated using an FDTD solver (GPRMax). A convolutional regression model is trained to predict defect orientation from the radargrams. [See project details](https://nirjharalam.github.io/triangular_defect/).
 
   <div align="center">
-    <img src="./assets/img/triangular_defect_orientation_data.gif" alt=Simulation revealed subwavelength layers produced discernible signal patterns for both interfaces" width="500">
+    <img src="./assets/img/triangular_defect_orientation_data.gif" alt=Simulation revealed subwavelength layers produced discernible signal patterns for both interfaces" width="600">
     <p><strong>Figure 5:</strong> Although a continuous shift is observed with a change in orientation, this pattern breaks down when the sharp corners of the defect are oriented toward the incoming GPR signals. </p>
 </div>
 
