@@ -62,7 +62,7 @@ I am a 5th-year PhD student at Pennsylvania State University's Materials Science
   A generative model inverts GPR B-scans for a buried object problem. A relatively light VAE model accurately indicates the objects' position and size, although results are inconclusive when the buried object is small. [See project details](./DNN-inversion/README.md).
   
   <div align="center">
-    <img src="./DNN-inversion/img/DNN_inversion_AE.PNG" alt=Simulation revealed subwavelength layers produced discernible signal patterns for both interfaces" width="500">
+    <img src="./DNN-inversion/img/triangular_defect_orientation_data1-ezgif.com-loop-count" alt=Simulation revealed subwavelength layers produced discernible signal patterns for both interfaces" width="500">
     <p><strong>Figure 4:</strong> A Variational Autoencoder (VAE) models the joint distribution between input geometries - represented as permittivity maps of subsurface structures - and their corresponding B-scans. This enables computationally efficient full-waveform inversion of GPR data for target configurations. </p>
 </div>
 
