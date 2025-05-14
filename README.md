@@ -38,7 +38,7 @@ I am a 5th year PhD student at Pennsylvania State University's Material Science 
 
 <div align="center">
     <img src="./paper-2-overview.PNG" alt=Simulation revealed subwavelength layers produced discernible signal patterns for both interfaces" width="12000">
-    <p><strong>Figure 3:</strong> (left) Complex reflections within building envelope interior, (center) Sparse neural network interprets signals while trimming low quality features, (right) Selected features  map to salient locations
+    <p><strong>Figure 3:</strong> (left) Complex reflections within building envelope interior, (center) Sparse neural network interprets signals while trimming low-quality features, (right) Selected features  map to salient locations
         in the building envelope.</p>
 </div>
 
@@ -59,7 +59,13 @@ I am a 5th year PhD student at Pennsylvania State University's Material Science 
 
 ## Works in Progress
 - **GPR Scan Inversion Using Deep Neural Network**  
-  A generative model inverts GPR B-scans for a buried object problem. A relatively light VAE model accurately indicates the objects' position and size, although results are inconclusive when the buried object is small.  [See project details](./DNN-inversion/README.md).
+  A generative model inverts GPR B-scans for a buried object problem. A relatively light VAE model accurately indicates the objects' position and size, although results are inconclusive when the buried object is small.
+  
+  <div align="center">
+    <img src="./DNN-inversion/img/DNN_inversion_AE.PNG" alt=Simulation revealed subwavelength layers produced discernible signal patterns for both interfaces" width="12000">
+    <p><strong>Figure 3:</strong> A Variational Autoencoder (VAE) models the joint distribution between input geometries - represented as permittivity maps of subsurface structures - and their corresponding B-scans. This enables computationally efficient full-waveform inversion of GPR data for target configurations. </p>
+</div>
+   [See project details](./DNN-inversion/README.md).
 
 - **Orientation Detection for Angular Defects in Building Envelopes**  
   Short description. [See project details](https://nirjharalam.github.io/triangular_defect/).
