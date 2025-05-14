@@ -31,7 +31,7 @@ I am a 5th year PhD student at Pennsylvania State University's Material Science 
 
 
 - **Interpretable AI for Building Envelope Inversion (*submitted*)**  
-  Building envelopes represent a challenge for GPR, due to their lower permittivity contrasts and comparatively cluttered interiors. This work proposes a data-driven framework, utilizing sparse neural networks, for diagnosing building envelopes using GPR signals. The proposed framework is accurate, highly interpretable, and robust to spurious patterns in signal.
+  Building envelopes represent a challenge for GPR, due to their lower permittivity contrasts and comparatively cluttered interiors. This work proposes a data-driven framework, utilizing sparse neural networks, for diagnosing building envelopes using GPR signals. The proposed framework is accurate, highly interpretable, and robust to spurious patterns in the signal.
 
 
 
