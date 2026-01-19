@@ -7,7 +7,7 @@
 ## Bio
 
 
-I am a 5th-year PhD student at Pennsylvania State University's Materials Science Department. I employ data and physics-driven techniques to decipher critical information from radar scattering data. This portfolio contains glimpses of my published work and  projects that are either in progress or were not substantial enough for separate publication, yet interesting. 
+I am a Doctoral Researcher at Pennsylvania State University. I build physics-grounded, data-driven methods to extract actionable information from radar sensing data. This portfolio highlights selected publications and additional projects, including works in progress and smaller explorations that are not standalone papers but demonstrate my approach, tooling, and technical range.
 
 
 ## Publications
